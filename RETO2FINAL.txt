@@ -1,0 +1,26 @@
+https://github.com/edwinapp89/FinalReto2.git
+
+
+Reto 2
+¡Hola equipo de desarrollo de videojuegos! 
+
+En nombre de Videojuegos Atenea Studios, les saludo con entusiasmo y les agradezco por embarcarse en esta emocionante aventura de creación de nuestro próximo juego de plataformas. Estamos emocionados de trabajar con ustedes y confiamos plenamente en su talento y capacidad para llevar a cabo este proyecto de manera excepcional.
+
+ Nuestros requerimientos son fundamentales para asegurar el éxito y la calidad del juego que deseamos ofrecer a nuestros jugadores. A continuación, las indicaciones a seguir.
+
+1. En primer lugar, necesitamos que diligencien los ítems principales del documento GDD (Game Design Document) para tener una visión clara y detallada de la dirección del proyecto.
+
+2. Además, es esencial que realicen la creación y configuración del proyecto en Unity, asegurándose de que todos los elementos estén correctamente integrados. Para enriquecer la experiencia del juego, les pedimos que importen y configuren paquetes de elementos 2D gratuitos disponibles en Unity, de modo que podamos aprovechar su potencial visual y estético.-
+
+3. La construcción de la escena es otro aspecto clave en este proyecto. Necesitamos que diseñen y construyan tres niveles, cada uno más desafiante y emocionante que el anterior. Estos niveles deben incluir objetivos claros y alcanzables para mantener a nuestros jugadores comprometidos y motivados. Además, les pedimos que incorporen enemigos que presenten diferentes desafíos y obstáculos a superar. La construcción de la escena también implica la incorporación de recompensas que enriquezcan la experiencia de juego. Les pedimos que diseñen e integren estratégicamente diferentes recompensas a lo largo de los niveles, como monedas, power-ups o ítems especiales. Estas recompensas deben ser atractivas y motivar a los jugadores a explorar y superar desafíos adicionales. ¡Recuerden que las recompensas son una excelente manera de fomentar la interacción y la satisfacción del jugador!
+
+4. Un elemento esencial en el juego será la adición de un personaje en tercera persona con un controlador de movimiento fluido y responsivo. Esto permitirá a los jugadores sumergirse por completo en el mundo del juego y disfrutar de una experiencia de juego inmersiva.
+
+5. En cuanto a la interfaz de usuario, requerimos la creación y configuración de varias pantallas. Esto incluye una interfaz de inicio con el nombre del juego y opciones como “Jugar”, “Configuración” y “Créditos”. También necesitamos una interfaz de selección de nivel que permita a los jugadores elegir entre los tres niveles disponibles. Durante el juego, es esencial contar con una interfaz que muestre la cantidad de vidas restantes y un botón de pausa para que los jugadores puedan tomar un respiro si lo necesitan. Por último, una interfaz de pausa que ofrezca opciones para continuar el juego, reiniciarlo o salir por completo. Además, es necesario incorporar una interfaz de configuración que permita a los jugadores ajustar la configuración de sonido, incluida la opción de quitar los sonidos de fondo si así lo desean.
+
+6. Por último, pero no menos importante, les pedimos que realicen pruebas exhaustivas del videojuego para garantizar su funcionalidad, jugabilidad y ausencia de errores. Nuestro objetivo es ofrecer a nuestros jugadores una experiencia de juego excepcional y eso solo se puede lograr a través de una rigurosa fase de pruebas y refinamiento.
+
+
+
+Objetivo final: desarrollar un videojuego de plataformas emocionante con tres niveles progresivos, un personaje en tercera persona, interfaces de usuario bien diseñadas y configuradas, y una experiencia de juego satisfactoria. Confiamos en su dedicación, creatividad y pasión por el desarrollo de videojuegos para llevar a cabo este proyecto con éxito. Estamos emocionados por los resultados finales y la oportunidad de presentar este juego de plataformas a nuestro público.
+¡Adelante con el desarrollo y muchas gracias por su compromiso!
