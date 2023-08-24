@@ -6298,6 +6298,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   MenuJuego: {fileID: 1601950633}
+  Inicio: {fileID: 0}
 --- !u!4 &1350962984
 Transform:
   m_ObjectHideFlags: 0

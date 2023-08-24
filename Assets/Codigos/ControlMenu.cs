@@ -1,20 +1,23 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 public class ControlMenu : MonoBehaviour
 {
     public GameObject MenuJuego;
-    void Start()
+    public GameObject Inicio;
+
+    public void ShowMenu()
     {
-        string MenuToOpen = PlayerPrefs.GetString("MenuJuego", "");
-        if(MenuToOpen == "MenuJuego")
+        if (MenuJuego != null)
         {
             MenuJuego.SetActive(true);
+            Inicio.SetActive(false);
         }
         else
         {
-
+            Debug.LogWarning("El GameObject del menú no está asignado.");
         }
     }
 
